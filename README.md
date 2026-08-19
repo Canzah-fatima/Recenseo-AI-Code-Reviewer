@@ -3,7 +3,7 @@
 
 # RECENSEO
 
-### *Autonomous AST Neural Engine & AI Code Intelligence Studio*
+### *AI Code Reviewer*
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -194,10 +194,9 @@ http://localhost:3000
 npm run build
 ```
 
----
+## 📂 Project Structure
 
-# 📂 Project Structure
-
+```text
 recenseo/
 ├── public/
 │   ├── favicon.ico
@@ -267,4 +266,4 @@ See the **LICENSE** file for more information.
 Made with ❤️ using **React**, **TypeScript**, **Tailwind CSS**, and **Google Gemini**
 
 </div>
-````
+
